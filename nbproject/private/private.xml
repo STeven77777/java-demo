@@ -2,13 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/tung.pham/Documents/NetBeansProjects/WebApplication2/web/example/login.jsp</file>
-            <file>file:/C:/Users/tung.pham/Documents/NetBeansProjects/WebApplication2/src/java/login/LoginAction.java</file>
-            <file>file:/C:/Users/tung.pham/Documents/NetBeansProjects/WebApplication2/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/tung.pham/Documents/NetBeansProjects/WebApplication2/src/java/struts.xml</file>
-            <file>file:/C:/Users/tung.pham/Documents/NetBeansProjects/WebApplication2/src/java/example.xml</file>
-            <file>file:/C:/Users/tung.pham/Documents/NetBeansProjects/WebApplication2/build.xml</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
